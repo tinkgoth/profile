@@ -2,14 +2,6 @@
 
 I'm Tink
 
-> “Do, or do not. There is no “try” — Yoda
-
-# 🚀 Expertise
-
-Passionate about crafting interactive and intuitive user experiences, I specialize in full-stack web development. With almost 7 years dedicated to honing my skills in full-stack technologies.
-
-In addition to my professional pursuits, I've embraced the role of a "content creator" within the technology sphere. My approach is distinct; I aim to offer a fresh perspective on tech, blending insights with a dash of humor.
-
 # 💻 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
